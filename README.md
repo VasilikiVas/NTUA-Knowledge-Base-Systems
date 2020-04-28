@@ -5,8 +5,8 @@ This repository contains the Assignments for ECE NTUA course *Knowledge Base Sys
 
 
 ## 👱Project Collaborators
-Dimitrios Georgiou (jimmyg1997)
-Vasiliki Vasileiou (VasilikiVas)
+* Dimitrios Georgiou (jimmyg1997)
+* Vasiliki Vasileiou (VasilikiVas)
 
 
 ## Further Reading:
